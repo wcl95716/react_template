@@ -1,0 +1,74 @@
+.about-author-card {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.about-author-card .author-avatar {
+  position: relative;
+  text-align: center;
+}
+
+.about-author-card .author-avatar img {
+  width: 160px;
+  min-width: 160px;
+  height: 160px;
+  border-radius: 80px;
+  border: 1px solid #ebebeb;
+}
+
+.about-author-card .user-name-info {
+  margin-top: 6px;
+  max-width: 100%;
+}
+
+.about-author-card .name {
+  color: #262626;
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.about-author-card .desc {
+  font-size: 16px;
+}
+
+.about-author-card .follow-info {
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+  margin: 16px auto;
+  min-width: 148px;
+  display: flex;
+  justify-content: center;
+  align-content: space-between;
+}
+
+.about-author-card .follow-info a {
+  width: 100px;
+}
+
+.about-author-card .follow-info .user-count {
+  font-size: 22px;
+  font-weight: 700;
+  color: #424242;
+  line-height: 26px;
+  margin-bottom: 6px;
+}
+
+.about-author-card .follow-info .user-label {
+  color: #8c8c8c;
+  margin-bottom: 6px;
+}
+
+.about-author-card .operation-btns {
+  display: flex;
+  justify-content: space-between;
+}
+
+.about-author-card .ant-btn {
+  min-width: 96px;
+}

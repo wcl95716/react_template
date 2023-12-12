@@ -1,0 +1,68 @@
+[
+  {
+    "tag_id": "6809640407484334093",
+    "id": 2546526,
+    "tag_name": "Java",
+    "icon": "java.svg"
+  },
+  {
+    "id": 2546527,
+    "tag_id": "6809640408797167623",
+    "tag_name": "Git",
+    "icon": "git.svg"
+  },
+  {
+    "id": 2546502,
+    "tag_id": "6809640375880253447",
+    "tag_name": "Go",
+    "icon": "golang.svg"
+  },
+  {
+    "id": 2546592,
+    "tag_id": "6809640499062767624",
+    "tag_name": "React",
+    "icon": "react.svg"
+  },
+  {
+    "id": 2546516,
+    "tag_id": "6809640394175971342",
+    "tag_name": "Spring",
+    "icon": "spring.svg"
+  },
+  {
+    "id": 2546524,
+    "tag_id": "6809640404791590919",
+    "tag_name": "Vue.js",
+    "icon": "vue.svg"
+  },
+  {
+    "id": 2546594,
+    "tag_id": "6809640501776482317",
+    "tag_name": "Linux",
+    "icon": "linux.svg"
+  },
+  {
+    "id": 2546562,
+    "tag_id": "6809640456868085768",
+    "tag_name": "Node.js",
+    "icon": "nodejs.svg"
+  },
+  {
+    "id": 2546498,
+    "tag_id": "6809640369764958215",
+    "tag_name": "Python",
+    "icon": "python.svg"
+  },
+  {
+    "id": 2546519,
+    "tag_id": "6809640398105870343",
+    "tag_name": "JavaScript",
+    "icon": "js.svg"
+  },
+  {
+    "id": 2546516,
+    "tag_id": "6809640394175971348",
+    "tag_name": "SpringCloud",
+    "icon": "springcloud.svg"
+  }
+]

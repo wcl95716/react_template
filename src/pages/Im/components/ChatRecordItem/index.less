@@ -1,0 +1,48 @@
+.chat-record-item {
+  position: relative;
+  display: flex;
+  width: 100%;
+  padding: 10px;
+
+  .chat-user-info {
+    flex: 1;
+    margin-left: 10px;
+    overflow: hidden;
+
+    .top {
+      display: flex;
+      justify-content: space-between;
+
+      .chat-user-name {
+        color: #262626;
+        font-weight: 600;
+      }
+      .time {
+        color: #262626;
+        text-align: right;
+      }
+    }
+
+    .chat-message-detail-item {
+      display: flex;
+
+      .chat-message-detail {
+        overflow: hidden;
+        color: #8c8c8c;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+      }
+    }
+    p {
+      margin: 0;
+    }
+  }
+
+  &:hover {
+    background-color: aliceblue;
+  }
+}
+
+.chat-record-item-selected {
+  background-color: aliceblue;
+}

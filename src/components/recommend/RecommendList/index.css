@@ -1,0 +1,31 @@
+.recommend-list .ant-list-bordered {
+  border: 1px solid #f0f0f0;
+}
+
+.recommend-list .title {
+  font-size: 18px;
+  font-weight: 500;
+  color: #262626;
+}
+
+.recommend-list-content {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+@media screen and (max-width: 768px) {
+  .ant-list-item-extra img {
+    width: 160px;
+    height: 100px;
+  }
+}
+
+@media (min-width: 992px) {
+  .ant-list-item-extra img {
+    width: 160px;
+    height: 100px;
+  }
+}

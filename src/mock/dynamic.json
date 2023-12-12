@@ -1,0 +1,240 @@
+[
+  {
+    "subject": {
+      "user": {},
+      "title": "包容格式 Forgiving Format",
+      "description": null,
+      "custom_description": "What 是什么简介 一种纯文本输入的方法，允许用户输入各种格式或者语法的内容，然后让程序分析输入信息的结构，并返回相应的结果。例子 Google 搜索输入框输入计算器输入股票代码When 什么时候使用简单来说，界面需要接受来自用户不同类型、格式的内容输入。但是你又希望在界面上保持简洁。很多时..."
+    },
+    "book": { "name": "设计模式" },
+    "user": {},
+    "id": 134494679,
+    "event_type": "publish_doc"
+  },
+  {
+    "subject": {
+      "user": {},
+      "name": "设计模式",
+      "description": "设计中的精妙见解",
+      "watches_count": 84
+    },
+    "book": { "name": "设计模式" },
+    "user": {},
+    "id": 134061634,
+    "event_type": "watch_book"
+  },
+  {
+    "subject": {
+      "user": { "name": "空谷" },
+      "title": "论情感大师如何送礼",
+      "description": null,
+      "custom_description": "前些天和朋友们聊起来，一好友的女朋友吐槽浙大的男生不过 520，不会给女朋友送礼物。然后另外一个朋友，叫 Peter ，就很积极说，我可以教你们如何送礼吗？然后我好奇心就起来了，说：“您请”。然后 Peter 就开始了他的送礼教学，让我大开眼界，感觉不整理下来实在可惜。"
+    },
+    "book": { "name": "空谷的碎碎念" },
+    "user": {},
+    "id": 134006443,
+    "event_type": "publish_doc"
+  },
+  {
+    "subject": {
+      "user": { "name": "空谷" },
+      "title": "设计模式·导读",
+      "description": "​「设计模式是有关设计的精妙见解」设计模式最早的概念来源于建筑设计领域，1977 年，Alexander 出版《A Pattern Language: Towns, Buildings, Construction》一书，在书中，他通过一系列建筑特征的精确定义，提取了那些带给居民幸福感的建筑设计...",
+      "custom_description": "「设计模式是有关设计的精妙见解」设计模式最早的概念来源于建筑设计领域，1977 年，Alexander 出版《A Pattern Language: Towns, Buildings, Construction》一书，在书中，他通过一系列建筑特征的精确定义，提取了那些带给居民幸福感的建筑设计的..."
+    },
+    "book": { "name": "设计模式" },
+    "user": {},
+    "id": 133999408,
+    "event_type": "update_doc"
+  },
+  {
+    "subject": {
+      "user": { "name": "美芳Mia" },
+      "title": "让事情塑造你，在纪律中找出路",
+      "description": "只剩十几个小时，2019年的余额就没了，2020年的1月1日就要来了！诗人艾略特写过，4月是最残忍的月份。也许吧。但4月肯定不是最致命的。因为一月是最致命的，尤其是一月一日。一位名叫David Phillip的美国社会学教授检查了1979年至2004年之间发行的5700万张死亡证书，并得出了一...",
+      "custom_description": null
+    },
+    "book": { "name": "体验设计手册" },
+    "user": {},
+    "id": 133855389,
+    "event_type": "like_doc"
+  },
+  {
+    "subject": {
+      "user": { "name": "空谷" },
+      "name": "NFT",
+      "description": "非同质代币（NFT）",
+      "watches_count": 1
+    },
+    "book": { "name": "NFT" },
+    "user": {},
+    "id": 133816186,
+    "event_type": "watch_book"
+  },
+  {
+    "subject": {
+      "user": { "name": "空谷" },
+      "title": "延期选择 Deferred Choices",
+      "description": null,
+      "custom_description": "“我现在不想回答；让我结束吧！”这是出于人们对即时满足的渴望。如果您在此过程中向以任务为中心的用户询问不必要的问题，则他们可能希望跳过这些问题，稍后再回头。例如，一些基于网络的公告板注册用户的程序又长又复杂。屏幕名称，电子邮件地址，隐私偏好，头像，自我描述…这样的例子不胜枚举。“但我只是想发布..."
+    },
+    "book": { "name": "设计模式" },
+    "user": {},
+    "id": 131561241,
+    "event_type": "publish_doc"
+  },
+  {
+    "subject": {
+      "user": { "name": "空谷" },
+      "title": "三个大脑系列（三）：思维大脑（上）——信息搜集与整理",
+      "description": null,
+      "custom_description": "前言：《三个大脑》系列文章第一篇从 16 年底动笔，结果最终篇到了 21 年也还没完工，实在惭愧。很多小伙伴催我写最后一篇，但是由于一个非常关键的工具我还没有做完，因此最终篇也迟迟没有封笔。因此我决定将其拆成几篇，并把每篇讲得细致一些。在这一篇里就和大家聊聊在我的「思维大脑」中占据非常核心地位..."
+    },
+    "book": { "name": "空谷札记" },
+    "user": {},
+    "id": 130457979,
+    "event_type": "publish_doc"
+  },
+  {
+    "subject": {
+      "user": { "name": "空谷" },
+      "title": "如何快速入门一个新领域？以「产品结构设计」为例",
+      "description": "前言：这是我 17 年在知乎上的一个回答：工业设计产品结构设计如何入门？ 在写《思维大脑：上》的时候发现这个案例也非常有用，因此将它挪过来。虽然我现在不做工业设计了，但是这篇回答还是把我入门一个领域的基本思想和方法较为完整地呈现了出来，虽说也有好几年了，这套方法还是一直可用，换到其他领域也一样...",
+      "custom_description": null
+    },
+    "book": { "name": "思维进化" },
+    "user": {},
+    "id": 130329349,
+    "event_type": "publish_doc"
+  },
+  {
+    "subject": {
+      "user": { "name": "空谷的大前端" },
+      "name": "macOS",
+      "description": "苹果原生开发",
+      "watches_count": 4
+    },
+    "book": { "name": "macOS" },
+    "user": {},
+    "id": 130128830,
+    "event_type": "watch_book"
+  },
+  {
+    "subject": {
+      "user": { "name": "空谷" },
+      "title": "空谷的信息搜索术：关于一包茶叶的小事",
+      "description": null,
+      "custom_description": "以前接触科研的时候，有人会问，论文不就只有搞学术的有用吗？对普通人来说又有什么价值呢？是的，我一直以来都抱有这种想法，直到今年遇到了一件小事，使得我转变了这个观念。这也我第一次发现论文也可以在日常生活中帮助我进行决策，还挺有意思的，所以在这里拿出来讲讲。一包茶引发的好奇心前情是我的外婆患有糖尿..."
+    },
+    "book": { "name": "思维进化" },
+    "user": {},
+    "id": 130103745,
+    "event_type": "publish_doc"
+  },
+  {
+    "subject": {
+      "user": { "name": "空谷" },
+      "title": "AMA",
+      "description": "有啥想问我的都可以发出来，不定期回复😉",
+      "custom_description": null
+    },
+    "book": { "name": "有趣的灵魂万里挑一" },
+    "user": {},
+    "id": 128781363,
+    "event_type": "publish_doc"
+  },
+  {
+    "subject": {
+      "user": { "name": "空谷" },
+      "title": "压箱底的笑话",
+      "description": "",
+      "custom_description": null
+    },
+    "book": { "name": "有趣的灵魂万里挑一" },
+    "user": {},
+    "id": 128649041,
+    "event_type": "publish_doc"
+  },
+  {
+    "subject": {
+      "user": { "name": "空谷" },
+      "name": "有趣的灵魂万里挑一",
+      "description": "",
+      "watches_count": 2
+    },
+    "book": { "name": "有趣的灵魂万里挑一" },
+    "user": {},
+    "id": 128647549,
+    "event_type": "watch_book"
+  },
+  {
+    "subject": {
+      "user": {},
+      "name": "连明堂",
+      "description": "感受各种事物， 识交很多人，然后， 写完 10 万篇文章，再···勇敢一点。"
+    },
+    "book": {},
+    "user": {},
+    "id": 127235767,
+    "event_type": "follow_user"
+  },
+  {
+    "subject": {
+      "user": { "name": "阿亦君" },
+      "title": "语雀小程序（支付宝版）试用反馈",
+      "description": null,
+      "custom_description": "还是给3分吧"
+    },
+    "book": { "name": "📗语雀相关" },
+    "user": {},
+    "id": 127082565,
+    "event_type": "like_doc"
+  },
+  {
+    "subject": {
+      "user": { "name": "空谷" },
+      "title": "从「用户旅程图」到「组件应用」",
+      "description": null,
+      "custom_description": "之前我在探索 Airtable 时曾经实现过一个用户旅程地图，有不少小伙伴对这其产生了很大的兴趣，纷纷问我这是个什么软件，能不能体验或者使用。但是由于这个旅程图是 Airtable 上的 Custom App ，如果要使用必须得是 Airtable 的付费会员，且需要一定程度复杂的前置安装操作..."
+    },
+    "book": { "name": "空谷札记" },
+    "user": {},
+    "id": 127053416,
+    "event_type": "publish_doc"
+  },
+  {
+    "subject": {
+      "user": { "name": "连明堂" },
+      "name": "我爱日漫",
+      "description": "最懂我的，还是日漫，真是很可悲的人生啊，孤独。\n动漫源源不断，会一直存在，而且只会越来越好，不像人容易走偏，老去，转变……我爱动漫。\n动漫是发现新世界、找到新方向、获得新体验的最简易方式，充满创新与可能。新剧情的上演，也是自我重复的终结。",
+      "watches_count": 97
+    },
+    "book": { "name": "我爱日漫" },
+    "user": {},
+    "id": 126478382,
+    "event_type": "watch_book"
+  },
+  {
+    "subject": {
+      "user": {},
+      "name": "徐飞",
+      "description": "我开玩笑的时候别人都当真，我认真的时候他们都笑，这世界真苦恼"
+    },
+    "book": {},
+    "user": {},
+    "id": 125928477,
+    "event_type": "follow_user"
+  },
+  {
+    "subject": {
+      "user": { "name": "空谷" },
+      "title": "内容结构",
+      "description": "如果你不知道这篇在讲啥，请先查看：此处为语雀文档，点击链接查看：https://www.yuque.com/design-engineering/journey-map/gvd57e为了便于介绍，我准备了一个基础示例，你可以在这个示例基础上跟着本教程一步步完成整个旅程图的制作。https://...",
+      "custom_description": null
+    },
+    "book": { "name": "用户旅程地图" },
+    "user": {},
+    "id": 125653019,
+    "event_type": "update_doc"
+  }
+]

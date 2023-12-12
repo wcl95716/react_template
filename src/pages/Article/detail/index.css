@@ -1,0 +1,28 @@
+.detail-container {
+  padding-top: 24px;
+}
+
+.detail-container .markdown-body {
+  background: #fff;
+  font-family: 'Microsoft YaHei';
+}
+
+.detail-container .detail-title {
+  background: #fff;
+}
+
+.detail-container .detail-title h2 {
+  margin-bottom: 0;
+  padding-bottom: 24px;
+  font-weight: 700;
+}
+
+.comment-action {
+  padding-left: 8px;
+  cursor: auto;
+}
+
+[class*='-col-rtl'] .comment-action {
+  padding-right: 8px;
+  padding-left: 0;
+}

@@ -1,0 +1,89 @@
+.emoticon-box-tip-tootip {
+  min-width: 500px;
+}
+
+.emoticon-box-tip-card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  height: 300px;
+  background-color: #fff;
+
+  .emoticon-title {
+    height: 25px;
+    color: #000;
+  }
+
+  .emoticon-box {
+    flex: 1;
+    overflow-y: auto;
+
+    .emoji-icons {
+      position: relative;
+      display: flex;
+      flex-wrap: wrap;
+
+      .emoji-box {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 40px;
+        height: 40px;
+        margin-left: 8px;
+        cursor: pointer;
+
+        img {
+          width: 28px;
+          height: 28px;
+          cursor: pointer;
+        }
+
+        .emoji-item {
+          cursor: pointer;
+        }
+
+        &:hover {
+          background-color: aliceblue;
+          .emoji-item {
+            transform: scale(1.1);
+            transition: transform 1s;
+          }
+        }
+      }
+    }
+
+    .collect-icons {
+      position: relative;
+      display: flex;
+      flex-wrap: wrap;
+
+      .collect {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 80px;
+        height: 80px;
+        margin-left: 8px;
+
+        img {
+          width: 100%;
+          height: 100%;
+          cursor: pointer;
+        }
+
+        &:hover {
+          background-color: aliceblue;
+        }
+      }
+    }
+  }
+  .emoticon-type {
+    display: flex;
+    align-items: center;
+    height: 40px;
+
+    .collect {
+      margin-left: 10px;
+    }
+  }
+}

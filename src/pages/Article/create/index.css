@@ -1,0 +1,44 @@
+.create-container .bytemd {
+  height: calc(100vh - 80px);
+  border: 0;
+}
+
+.create-container .header {
+  padding: 0 27px;
+  height: 5.334rem;
+  background-color: #fff;
+  border-bottom: 1px solid #ddd;
+  z-index: 100;
+}
+
+.create-container .create-header {
+  display: flex;
+  align-items: center;
+}
+
+.create-container .title-input {
+  flex: 1 1 auto;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  font-size: 24px;
+  font-weight: 500;
+  color: #1d2129;
+  border: none;
+  outline: none;
+}
+
+.create-container .right-box {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.create-container .right-box .with-padding {
+  margin-left: 8px;
+  margin-right: 8px;
+}
+
+.CodeMirror.CodeMirror-wrap {
+  z-index: 0;
+}

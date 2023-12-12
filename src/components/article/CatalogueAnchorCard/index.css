@@ -1,0 +1,72 @@
+.catalogue-anchor-card {
+}
+
+.catalogue-anchor-card .toc {
+  display: block;
+  overflow: hidden;
+}
+
+.catalogue-anchor-card .toc-link {
+  position: relative;
+  display: block;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.catalogue-anchor-card .toc-link:hover {
+  text-decoration: none;
+}
+
+.catalogue-anchor-card .toc-link {
+  color: #595959;
+}
+
+.catalogue-anchor-card .toc-link-h2 {
+  font-weight: 600;
+}
+
+.catalogue-anchor-card .toc-link-h4 {
+  font-weight: 400;
+  font-size: 1.167rem;
+  line-height: 1.3;
+}
+
+.catalogue-anchor-card .toc .toc-level-1 {
+  margin-bottom: 0;
+  padding-left: 0;
+}
+
+.catalogue-anchor-card .toc-link-h3,
+.catalogue-anchor-card .toc-link-h4,
+.catalogue-anchor-card .toc-link-h5 {
+  color: #595959;
+}
+
+.catalogue-anchor-card .toc-item-h2 {
+  font-size: 14px;
+}
+
+.catalogue-anchor-card .toc-link-h3 {
+  font-size: 13px;
+}
+
+.catalogue-anchor-card .toc-link-h4,
+.catalogue-anchor-card .toc-link-h5 {
+  font-size: 12px;
+}
+
+.catalogue-anchor-card .ant-card-body {
+}
+
+.catalogue-anchor .ant-anchor-ink {
+  display: none;
+}
+
+.catalogue-anchor .ant-affix {
+  z-index: 0;
+}
+
+.catalogue-anchor .ant-anchor {
+  padding-left: 0;
+}
